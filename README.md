@@ -1,16 +1,42 @@
-## Hi there 👋
+# ¡Hola! Soy David Cruz "DavC" 👋
 
-<!--
-**Davidcrz14/Davidcrz14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy estudiante de Ingeniería en Computación y Desarrollador Web 💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes de Programación:**
+  - Java ☕
+  - JavaScript 🌐
+  - HTML & CSS 🎨
+  - PHP 🐘
+  - C# ⚙️
+  - Python 🐍
+  - C 🖥️
+  - SQL 🗄️
+
+- **Frameworks y Bibliotecas:**
+  - Conocimiento básico de React ⚛️
+
+### 🚀 Proyectos y Hobbies
+
+- **Proyectos:**
+  - Desarrollo de aplicaciones web modernas y responsivas.
+  - Implementación de bases de datos eficientes y seguras.
+  - Automatización de tareas utilizando Python.
+
+- **Hobbies:**
+  - Cine 🎬: Apasionado del cine, especialmente de las películas con una fotografía impresionante y una historia cautivadora.
+  - Dibujar 🎨: Disfruto dibujar paisajes y personajes de mis animes favoritos.
+  - Videojuegos 🎮: Juego a títulos como Call Of Duty, Minecraft y Valorant.
+  - Correr 🏃: Salgo a correr al campo para admirar el paisaje y mantenerme activo.
+
+### 🌐 Encuéntrame en:
+
+- [GitHub](https://github.com/Davidcrz14)
+- [Página Personal](https://davidcrz14.github.io)
+
+---
+
+![GIF de programación](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
