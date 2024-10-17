@@ -15,6 +15,7 @@
   - Python 🐍
   - C 🖥️
   - SQL 🗄️
+  - Flutter 📱
 
 - **Frameworks y Bibliotecas:**
   - Conocimiento básico de React ⚛️
