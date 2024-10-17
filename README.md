@@ -36,7 +36,7 @@
 ### 🌐 Encuéntrame en:
 
 - [GitHub](https://github.com/Davidcrz14)
-- [Página Personal](https://davidcrz14.github.io)
+- [Página Personal]([https://davidcrz14.github.io](https://davcportafolio.vercel.app/))
 
 ---
 
