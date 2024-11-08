@@ -1,4 +1,4 @@
-# ¡Hola! Soy David Cruz "DavC" 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+FrontEnd;DavC)](https://git.io/typing-svg)
 
 ## Soy estudiante de Ingeniería en Computación y Desarrollador Web 💻
 
