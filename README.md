@@ -1,26 +1,35 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;DavC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;David+Cruz)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola,%20Marte!&height=100&section=header&animation=twinkling&fontSize=40"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-[![GitHub followers](https://img.shields.io/github/followers/Davidcrz14?style=social)](https://github.com/Davidcrz14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-davcportafolio-blue)](https://portafoliodavc.vercel.app/)
-[![Visits](https://komarev.com/ghpvc/?username=Davidcrz14&color=blueviolet)](https://github.com/Davidcrz14)
+<div align="center">
+  <a href="https://github.com/Davidcrz14">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Davidcrz14?style=social" />
+  </a>
+  <a href="https://portafoliodavc.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-davcportafolio-blue?style=flat&logo=vercel&logoColor=white&labelColor=000000" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Davidcrz14&color=blueviolet&style=flat" alt="Profile views" />
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-México-success" />
-  <img src="https://img.shields.io/badge/Language-Español-brightgreen" />
-  <img src="https://img.shields.io/badge/Studies-Ing.%20Computación-blue" />
+  <img src="https://img.shields.io/badge/Status-Desarrollando%20Ideas%20✨-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-México%20🇲🇽-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Studies-Ing.%20Computación%20💻-blue?style=for-the-badge" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Frontend Developer & UI Enthusiast
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 Soy David Cruz, un apasionado Frontend Developer y estudiante de Ingeniería en Computación en México. Me especializo en crear experiencias web modernas y atractivas, combinando mis estudios en ingeniería con mi pasión por el desarrollo web.
 
