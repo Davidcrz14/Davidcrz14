@@ -2,18 +2,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;DavC)](https://git.io/typing-svg)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
 [![GitHub followers](https://img.shields.io/github/followers/Davidcrz14?style=social)](https://github.com/Davidcrz14)
 [![Portfolio](https://img.shields.io/badge/Portfolio-davcportafolio-blue)](https://portafoliodavc.vercel.app/)
 [![Visits](https://komarev.com/ghpvc/?username=Davidcrz14&color=blueviolet)](https://github.com/Davidcrz14)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-España-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 👨‍💻 Frontend Developer & UI Enthusiast
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Frontend Developer & UI Enthusiast
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación, especializado en crear experiencias web modernas y atractivas. Mi enfoque se centra en:
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Especialidades:
 
 🎨 **UI/UX Design**
 - Diseño de interfaces intuitivas
@@ -31,19 +41,11 @@ Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
 ### 🔧 Otras Tecnologías
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,flutter,git,vscode,github" />
 
 </div>
 
@@ -53,6 +55,9 @@ Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación
 <a href="https://portafoliodavc.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Mi%20Portafolio%20Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidcrz14&theme=react-dark&hide_border=true" width="100%">
+
 </div>
 
 ### 📊 Estadísticas de GitHub
@@ -62,9 +67,14 @@ Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Davidcrz14&theme=react"/>
 </div>
 
+### 🏆 Trofeos de GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Davidcrz14&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+</div>
+
 ### 🎨 Diseño y Creatividad
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="100">
       <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80">
@@ -95,5 +105,6 @@ Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
