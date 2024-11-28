@@ -10,8 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-España-success" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-México-success" />
+  <img src="https://img.shields.io/badge/Language-Español-brightgreen" />
+  <img src="https://img.shields.io/badge/Studies-Ing.%20Computación-blue" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,7 +22,7 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Soy un apasionado Frontend Developer y estudiante de Ingeniería en Computación, especializado en crear experiencias web modernas y atractivas. Mi enfoque se centra en:
+Soy David Cruz, un apasionado Frontend Developer y estudiante de Ingeniería en Computación en México. Me especializo en crear experiencias web modernas y atractivas, combinando mis estudios en ingeniería con mi pasión por el desarrollo web.
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Especialidades:
 
