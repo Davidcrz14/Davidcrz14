@@ -1,89 +1,82 @@
-```markdown
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+FrontEnd;DavC)](https://git.io/typing-svg)
-
-# 💻 Soy estudiante de Ingeniería en Computación y Desarrollador Web 🚀
-
----
-
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RoY3RidHZseW5nOG5qbTBodmt6bnc3NzR0bjVqYTNwMzY1bjVhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF de Programación" width="600"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Desarrollador+FrontEnd;DavC)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/Davidcrz14?style=social)](https://github.com/Davidcrz14)
+[![Portfolio](https://img.shields.io/badge/Portfolio-davcportafolio-blue)](https://davcportafolio.vercel.app/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
----
+## 👨‍💻 Sobre mí
 
-## 🛠️ Tecnologías y Herramientas
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJjNDQ3ZmU3MDM4NGU1ZjM5ZmM1ZDM4MmYzYjJiZmU2ZmJjZDM2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🌟 Lenguajes de Programación:
-| Lenguaje       | Icono    |
-|----------------|----------|
-| Java           | ☕       |
-| JavaScript     | 🌐       |
-| HTML & CSS     | 🎨       |
-| PHP            | 🐘       |
-| C#             | ⚙️       |
-| Python         | 🐍       |
-| C              | 🖥️       |
-| SQL            | 🗄️       |
-| Flutter        | 📱       |
+Soy estudiante de Ingeniería en Computación y Desarrollador Web apasionado por crear soluciones innovadoras. Me especializo en desarrollo frontend y constantemente aprendo nuevas tecnologías.
 
-### ⚙️ Frameworks y Librerías:
-- **React ⚛️ (básico)**
+### 🎯 Objetivos
+- Desarrollar aplicaciones web escalables
+- Contribuir a proyectos open source
+- Aprender nuevas tecnologías constantemente
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Proyectos y Hobbies
-
-### 🔧 **Proyectos**
-- Desarrollo de aplicaciones web modernas y responsivas.
-- Implementación de bases de datos eficientes y seguras.
-- Automatización de tareas utilizando Python.
-
-### 🏓 **Hobbies**
-- 🎬 **Cine:** Amante de películas con fotografía impresionante e historias cautivadoras.
-- 🎨 **Dibujo:** Creo paisajes y personajes de animes.
-- 🎮 **Videojuegos:** Disfruto de Call Of Duty, Minecraft y Valorant.
-- 🏃 **Correr:** Admiro el paisaje mientras me mantengo activo.
-
----
+### 🛠️ Stack Tecnológico
 
 <div align="center">
-  <h3> 🌐 Encuéntrame en: </h3>
-  <a href="https://github.com/Davidcrz14"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://davcportafolio.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-00C58E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Ejemplo de Referencia API
-
-### Obtener todos los ítems
-```http
-GET /api/items
-```
-| Parámetro  | Tipo     | Descripción                  |
-|------------|----------|------------------------------|
-| `api_key`  | `string` | **Requerido**. Tu clave API. |
-
-### Obtener un ítem
-```http
-GET /api/items/${id}
-```
-| Parámetro  | Tipo     | Descripción                       |
-|------------|----------|-----------------------------------|
-| `id`       | `string` | **Requerido**. ID del ítem a buscar. |
-
-### Función `add(num1, num2)`
-```javascript
-function add(num1, num2) {
-  return num1 + num2;
-}
-```
-
----
-
-### ✨ ¡Gracias por visitar mi perfil! 🚀
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Gracias" width="400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davidcrz14&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidcrz14&layout=compact&theme=tokyonight"/>
 </div>
-```
+
+### 🎮 Hobbies y Pasiones
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="80">
+      <br>Cine
+    </td>
+    <td align="center" width="100">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80">
+      <br>Dibujo
+    </td>
+    <td align="center" width="100">
+      <img src="https://media.giphy.com/media/13xNFHJwKFD9yE/giphy.gif" width="80">
+      <br>Gaming
+    </td>
+    <td align="center" width="100">
+      <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="80">
+      <br>Running
+    </td>
+  </tr>
+</table>
+
+### 📫 Contáctame
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Davidcrz14)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react)](https://davcportafolio.vercel.app/)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
